@@ -1,10 +1,10 @@
 # 개발 워크스테이션 구축 실습
 
 ## 1. 실행 환경
-- OS macOS 26.3.1
+- OS: macOS 26.3.1
 - Shell: zsh
-- Docker: Docker version 28.5.2
-- Git: git version 2.51.0
+- Docker: 28.5.2
+- Git: 2.51.0
 
 ## 2. 수행 체크리스트
 [ ] 터미널 조작
